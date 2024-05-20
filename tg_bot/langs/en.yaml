@@ -17,6 +17,8 @@ START_IMG: [
     "https://graph.org/file/4708c35417ea1f985d2fc.jpg",
  ]
 
+FIRST_PART_TEXT: "✨ *ʜᴇʟʟᴏ* `{}` . . ."
+ 
 pm_start_text: |
    Hi {}, I'm {},
    I am an Anime themed group management bot with some fun extras ;)
