@@ -15,7 +15,7 @@ START_IMG = [
     "https://graph.org/file/67979fc64642071b7e8e3.jpg",
     "https://graph.org/file/f4ec6cba9db0a9e570ff4.jpg",
     "https://graph.org/file/4708c35417ea1f985d2fc.jpg",
-]
+ ]
 
 pm_start_text: |
    Hi {}, I'm {},
