@@ -7,7 +7,7 @@ authors: "@dank_as_fuck"
 curr_chat_lang: "Hey. Your current language is {}, select the one you want from the buttons below :)"
 set_chat_lang: "Great, {} it is from now on!"
 
-START_IMG = [
+START_IMG: [
     "https://graph.org/file/924052956c320c4a30e2c.jpg",
     "https://graph.org/file/eac99dd18a261b11adaca.jpg",
     "https://graph.org/file/8c924fd0844c6cadedd07.jpg",
